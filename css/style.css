@@ -3,7 +3,7 @@ body {
   background: #384047;
 }
 h1 {
-  color: #fff;
+  color: #771835;
   text-align: center
 }
 
@@ -18,8 +18,9 @@ ul {
 ul li {
   display: inline-block;
   padding: 8px;
-  background:white;
+  background: #514169;
   margin:10px;
+
 }
 ul li img {
   display: block;
@@ -27,6 +28,7 @@ ul li img {
 a {
   text-decoration: none;
 }
+
 /** Start Coding Here **/
 #overlay {
   background:rgba(0,0,0,0.7);
@@ -37,14 +39,25 @@ a {
   left:0;
   display:none;
   text-align:center;
+
 }
 
 #overlay img {
  margin-top: 10%;
+ zoom: 150%;
+ border: 3px solid #A1904E;
+
 }
 
 #overlay p {
- color:white;
+ background-color: #CD9D39;
+ margin-left: 35%;
+ margin-right: 35%;
+ padding-top: 2%;
+ height: 15%;
+ color: #771835;;
+ border: 3px solid #AE2228;
+
 }
 
 
